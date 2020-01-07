@@ -1,0 +1,31 @@
+
+	.Rowling {
+		font-family: 'Quattrocento', serif;
+		text-align: center;
+		font-size: 300%;
+		color: #A79998;
+		background-color: #263645;
+		border: 6px solid black;
+		padding: 5px;
+		margin: 12px;
+	}
+	
+	.Tammsaare {
+		font-family: 'Quattrocento', serif;
+		text-align: center;
+		font-size: 200%;	
+	}
+	
+	.Green {
+		font-family: 'Quattrocento', serif;
+		text-align: center;
+		font-size: 150%;
+	}
+	
+	.Boi {
+		font-family: 'Quattrocento', serif;
+		text-align: center;
+		font-size: 150%;
+		background-color: #263645;
+		color: #A79998;
+	}
