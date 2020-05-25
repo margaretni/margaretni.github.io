@@ -1,0 +1,112 @@
+
+	
+	.Titel{
+		font-family: 'Neucha', cursive;
+		text-align: center;
+		font-size: 300%;
+		background-color: #ffc5ba;
+	}
+		
+	.flex-container-title > div {
+		margin: 40px;
+		text-align: center;
+		line-height: 20px;
+		background-color: #ffc5ba;
+	}
+	
+	.flex-container-title {
+		display: flex;
+		flex-wrap: wrap;
+		background-color: #ffc5ba;
+	}
+	
+	
+	
+	
+	.flex-container-table > div {
+		margin: 40px;
+		text-align: center;
+		line-height: 50px;
+	}
+	
+	.flex-container-table {
+		display: flex;
+		flex-wrap: wrap;
+		background-color:#7f86ad;
+	}
+	
+	.table-lables {
+		font-family: 'Neucha', cursive;
+		text-align: center;
+		font-size: 200%;
+		padding:40px;
+	}
+	
+	.paddingBetweenCols {
+		padding:40px;
+	}
+	
+	
+	
+	.flex-container-description > div {
+		width: 520px;
+		margin: 50px;
+		text-align: center;
+		line-height: 36px;
+		font-size: 20px;
+	}
+	
+	.flex-container-description {
+		display: flex;
+		flex-wrap: wrap;
+	}
+
+	.description {
+		padding: 70px 0;
+		font-family: 'Poppins', sans-serif;
+	}
+	
+
+
+	.flex-container-signup {
+		display: flex;
+		flex-wrap: wrap;
+		font-family: 'Poppins', sans-serif;
+		text-align: center;
+		font-size: 160%;
+		padding:50px;
+		background-color: #ffc5ba;
+	}
+	
+	.button {
+		font-size: 20px;
+	}
+	
+	.icon-link {
+		font-family: 'Poppins', sans-serif;
+		font-size:90%;
+	}
+	
+	
+	
+	.flex-container-figma > div {
+		margin: 50px;
+		text-align: center;
+		line-height: 36px;
+		font-size: 20px;
+	}
+	
+	.flex-container-figma {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	
+	.figma-link {
+		padding: 80px 0;
+		font-family: 'Poppins', sans-serif;
+	}
+	
+	.figma-screenshot {
+		padding:1px;
+		border:1px solid #021a40;
+	}
