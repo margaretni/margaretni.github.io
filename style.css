@@ -64,6 +64,7 @@
 	.description {
 		padding: 70px 0;
 		font-family: 'Poppins', sans-serif;
+		text-align: center;
 	}
 	
 
@@ -94,6 +95,7 @@
 		text-align: center;
 		line-height: 36px;
 		font-size: 20px;
+		padding: 30px;
 	}
 	
 	.flex-container-figma {
@@ -104,9 +106,30 @@
 	.figma-link {
 		padding: 80px 0;
 		font-family: 'Poppins', sans-serif;
+		text-align: center;
 	}
 	
 	.figma-screenshot {
 		padding:1px;
 		border:1px solid #021a40;
+	}
+
+
+	
+	.flex-container-randomButton > div {
+		margin: 100px;
+		padding: 100px 0;
+		text-align: center;
+	}
+	
+	.flex-container-randomButton {
+		display: flex;
+		flex-wrap: wrap;
+	}
+	
+	.randomButton {
+		font-family: 'Neucha', cursive;
+		text-align: center;
+		font-size: 150%;
+		padding: 40px;
 	}
